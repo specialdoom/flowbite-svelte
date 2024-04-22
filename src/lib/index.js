@@ -191,6 +191,9 @@ export { default as ActivityItem } from './timeline/ActivityItem.svelte';
 export { default as Timeline } from './timeline/Timeline.svelte';
 export { default as TimelineItem } from './timeline/TimelineItem.svelte';
 
+//Timepicker
+export { default as Timepicker } from './timepicker/Timepicker.svelte';
+
 // Toast
 export { default as Toast } from './toast/Toast.svelte';
 
